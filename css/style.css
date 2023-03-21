@@ -11,3 +11,7 @@ h1 {
 .zagolovok {
   color: rgb(182, 25, 25);
 }
+
+p {
+background-color: aqua;
+}
