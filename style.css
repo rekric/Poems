@@ -1,11 +1,11 @@
+heade {
+  background-color: #acc38b;
+}
+
 html {
   background: url(https://rekric.github.io/poems/fon.jpg) no-repeat center center;
   min-height: 100%;
   background-size: cover;
-}
-
-heade {
-  background-color: #acc38b;
 }
 
 h1 {
