@@ -1,6 +1,6 @@
 html {
   background: url(https://rekric.github.io/poems/fon.jpg) no-repeat center center;
-  min-width: 100%;
+  max-width: 100%;
   min-height: 100%;
   background-size: cover;
 }
